@@ -1,0 +1,73 @@
+nav{
+    height: 100px;
+    width: auto;
+    background-color: #00358E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+li{
+    margin-right: 10px;
+}
+
+
+.nav-item{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+
+.AboutMe {
+background-color: #00358E;
+}
+
+.Experience{
+    background-color: #00358E;
+    
+}
+
+.Education {
+    background-color: #00358E;
+}
+
+.Skills{
+    background-color: #00358E;
+}
+
+.AboutMe, .Experience, .Education, .Skills{
+    height: 30rem;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+}
+
+p{
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+
+
+
+
+h5{ 
+    background-color: #00358E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
