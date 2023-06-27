@@ -1,0 +1,10 @@
+div{
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+}
+.row {
+    background-color: rgb(212, 126, 60);
+    color: black;
+}
+

@@ -1,0 +1,26 @@
+.row{
+    padding: 20px;
+    color: black
+}
+
+div {
+    background-color: chocolate
+}
+
+h1, h3 {
+    display: inline;
+    text-align: center;
+    color: black;
+}
+
+h2{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+}
+
+
