@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class SExperienciaService {
-  expURL = 'https://portfolio-backend-render5.onrender.com/explab/'
+  expURL = 'https://portfolio-backend-render7.onrender.com/explab/'
 
   constructor(private httpClient: HttpClient) { }
 
